@@ -1,1 +1,0 @@
-print("Arman is a good programmer")
