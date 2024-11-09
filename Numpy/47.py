@@ -1,4 +1,4 @@
-# Example 13: NumPy - Indexing Multi-dimensional Arrays with Slices
+# Example 47: NumPy - Indexing Multi-dimensional Arrays with Slices
 import numpy as np
 
 # Creating a 3x4 array

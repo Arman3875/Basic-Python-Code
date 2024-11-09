@@ -1,4 +1,4 @@
-# Example 8: NumPy - Conditional Indexing
+# Example 35: NumPy - Conditional Indexing
 import numpy as np
 
 # Creating an array

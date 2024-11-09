@@ -1,4 +1,4 @@
-# Example 3: NumPy - Boolean Indexing
+# Example 32: NumPy - Boolean Indexing
 import numpy as np
 
 # Creating an array

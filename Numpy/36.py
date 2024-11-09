@@ -1,4 +1,4 @@
-# Example 9: NumPy - Broadcasting
+# Example 36: NumPy - Broadcasting
 import numpy as np
 
 # Creating an array

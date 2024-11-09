@@ -1,4 +1,4 @@
-# Example 7: NumPy - Indexing with Arrays
+# Example 34: NumPy - Indexing with Arrays
 import numpy as np
 
 # Creating a 2D array

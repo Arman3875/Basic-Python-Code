@@ -1,4 +1,4 @@
-# Example 12: NumPy - Combining Boolean and Fancy Indexing
+# Example 38: NumPy - Combining Boolean and Fancy Indexing
 import numpy as np
 
 # Creating an array

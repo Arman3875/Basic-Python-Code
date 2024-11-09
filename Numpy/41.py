@@ -1,4 +1,4 @@
-# Example 17: NumPy - Indexing with np.where()
+# Example 41: NumPy - Indexing with np.where()
 import numpy as np
 
 # Creating an array

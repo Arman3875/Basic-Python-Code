@@ -1,4 +1,4 @@
-# Example 18: NumPy - Advanced Slicing with Step in 2D Array
+# Example 42: NumPy - Advanced Slicing with Step in 2D Array
 import numpy as np
 
 # Creating a 2D array

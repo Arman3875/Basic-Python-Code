@@ -1,4 +1,4 @@
-# Example 2: NumPy - Basic Arithmetic Operations
+# Example 31: NumPy - Basic Arithmetic Operations
 import numpy as np
 
 # Creating arrays

@@ -1,4 +1,4 @@
-# Example 16: NumPy - Extracting Diagonal Elements
+# Example 40: NumPy - Extracting Diagonal Elements
 import numpy as np
 
 # Creating a square matrix

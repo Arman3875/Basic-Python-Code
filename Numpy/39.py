@@ -1,4 +1,4 @@
-# Example 15: NumPy - Concatenation of Arrays
+# Example 39: NumPy - Concatenation of Arrays
 import numpy as np
 
 # Creating arrays

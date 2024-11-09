@@ -1,4 +1,4 @@
-# Example 4: NumPy - Exponential and Logarithmic Functions
+# Example 33: NumPy - Exponential and Logarithmic Functions
 import numpy as np
 
 # Creating an array

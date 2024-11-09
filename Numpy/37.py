@@ -1,4 +1,4 @@
-# Example 11: NumPy - Random Array Generation
+# Example 37: NumPy - Random Array Generation
 import numpy as np
 
 # Generating random arrays

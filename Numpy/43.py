@@ -1,4 +1,4 @@
-# Example 19: NumPy - Clipping Array Values
+# Example 43: NumPy - Clipping Array Values
 import numpy as np
 
 # Creating an array
