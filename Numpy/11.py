@@ -1,9 +1,10 @@
-# Example 11: NumPy - Random Array Generation
+# Example 11: NumPy - Extracting Upper Triangle of a Matrix
 import numpy as np
 
-# Generating random arrays
-random_array = np.random.rand(3, 3)  # Random values in a 3x3 array
-normal_array = np.random.randn(3, 3)  # Random values with a normal distribution
+# Creating a square matrix
+matrix = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
 
-print('Random Array:\n', random_array)
-print('Normal Distribution Array:\n', normal_array)
+# Extracting the upper triangle (above the main diagonal)
+upper_triangle = np.triu(matrix)
+
+print('Upper Triangle of the Matrix:\n', upper_triangle)
