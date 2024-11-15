@@ -1,12 +1,11 @@
-# Working with timezones
-
+# Example 46: Using explode() for Nested JSON Columns
 import pandas as pd
 
-# Creating a time series with a timezone
-date_range = pd.date_range(start='2024-01-01', periods=5, freq= 'D', tz='UTC')
-data = {'sales':[100,200,150,250,300]}
-df = pd.DataFrame(data, index =date_range)
+# Creating a DataFrame with nested lists
+data = {'ID': [1, 2], 'Hobbies': [['Reading', 'Swimming', 'Gaming'], ['Hiking', 'Drawing']]}
+df = pd.DataFrame(data)
 
-# Converting to a different timezone
-df = df.tz_convert('US/Eastern')
-print('Time series dataFrame with timezone:\n',df)
+# Exploding the 'Hobbies' column
+exploded_df = df.explode('Hobbies')
+
+print('DataFrame after Exploding Nested JSON Column:\n', exploded_df)
